@@ -1,7 +1,14 @@
 # Welcome to ansheng's blog!
 
-> 2017年05月24日 把博客迁移到Github
+> 2017年05月24日 把博客迁移到Github / [Python全栈之路系列文章](https://blog.ansheng.me/article/python-full-stack-way)
 
+https://blog.ansheng.me/article/
+
+
+- 2017年05月24日 [Cobbler定制安装及重装系统](https://blog.ansheng.me/article/cobbler-custom-installation-and-reinstall-the-system)
+- 2017年05月24日 [初识Cobbler自动安装Linux](https://blog.ansheng.me/article/acquaintance-cobbler-automatically-install-linux)
+- 2017年05月24日 [Ubuntu安装配置SSH服务](https://blog.ansheng.me/article/ubuntu-install-configuration-ssh)
+- 2017年05月24日 [CentOS7修改默认网卡名称为eth0](https://blog.ansheng.me/article/centos7-modify-network-name-eth0)
 - 2017年05月24日 [使用curl命令获取网站的header头及状态码](https://blog.ansheng.me/article/linux-curl-header-status-code)
 - 2017年05月24日 [ssh-keygen批量分发](https://blog.ansheng.me/article/ssh-keygen)
 - 2017年05月24日 [合格的Linux运维必会考试题及答案](https://blog.ansheng.me/article/ops-linux-exam-questions)
