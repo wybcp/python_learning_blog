@@ -91,9 +91,9 @@ nginx: configuration file /application/nginx-1.9.7/conf/nginx.conf test is succe
 
 打开浏览器输入域名或者IP，后面加上logs，然后点击文件就可以打开了，如果日志随随便便就可以被别人查看是不是很不安全，所以我们要在加一层nginx用户认证。
 
-![nginx-web-01](../images/2016/12/1483012921991.png "nginx-web-01")
+![nginx-web-01](../images/2016/12/nginx-web-01.png"nginx-web-01")
 
-![nginx-web-02](../images/2016/12/1483012921991.png "nginx-web-02")
+![nginx-web-02](../images/2016/12/nginx-web-02.png"nginx-web-02")
 
 安装httpd-tools，用于帐号密码生成
 
@@ -125,4 +125,4 @@ location /logs {
 ```
 然后再打开的时候就会提示输入账号和密码，登陆之后才可以查看。
 
-![nginx-web-03](../images/2016/12/1483012921991.png "nginx-web-03")
+![nginx-web-03](../images/2016/12/nginx-web-03.png "nginx-web-03")
