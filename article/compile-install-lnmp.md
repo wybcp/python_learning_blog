@@ -395,8 +395,8 @@ phpinfo();
 
 1、查看PHP
 
-![lnmp-php](../images/2016/12/1483013256466.png "lnmp-php")
+![lnmp-php](../images/2016/12/lnmp-php.png "lnmp-php")
 
 2、查看MySQL
 
-![lnmp-mysql](../images/2016/12/1483013256466.png "lnmp-mysql")
+![lnmp-mysql](../images/2016/12/lnmp-mysql.png "lnmp-mysql")
