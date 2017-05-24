@@ -20,10 +20,6 @@ IO多路复用是指内核一旦发现进程指定的一个或者多个IO条件�
 
 select 监视的文件描述符分3类，分别是writefds、readfds和exceptfds，程序启动后select函数会阻塞，直到有描述符就绪（有数据 可读、可写、或者有except），或者超时（timeout指定等待时间，如果立即返回设为null即可），函数返回，当select函数返回后，可以通过遍历fdset，来找到就绪的描述符。
 
-- 图
-
-![io-multiplexing-02](https://static.ansheng.me/io-multiplexing-02.png)
-
 - 特点
 
 1. select最大的缺陷就是单个进程所打开的FD是有一定限制的，它由FD_SETSIZE设置，默认值是1024；
