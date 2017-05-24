@@ -13,13 +13,17 @@
 - 2017年05月24日 [Nginx结合Supervisor部署Tornado](https://blog.ansheng.me/article/nginx-deployed-tornado-with-supervisor)
 - 2017年05月24日 [Python基础编程第二版（修订版）](https://blog.ansheng.me/article/python-fundamental-programming-2nd-edition-revised-edition)
 - 2017年05月24日 [简单的回顾下TCP/IP的三次握手与四次挥手](https://blog.ansheng.me/article/tcp-ip-three-handshakes-and-four-waving)
-- 2017年05月24日 [通过浏览器访问一个网站的背后到底经历了什么](through-the-browser-to-access-a-site-behind-what-has-gone-through)
+- 2017年05月24日 [通过浏览器访问一个网站的背后到底经历了什么](https://blog.ansheng.me/article/through-the-browser-to-access-a-site-behind-what-has-gone-through)
 - 2017年05月24日 [利用Emmet快速编写HTML标签](https://blog.ansheng.me/article/quickly-write-html-tags-with-emmet)
-- 2017年05月24日 [JavaScript DOM](https://blog.ansheng.me/article/python-full-stack-way-javascript-dom)
-- 2017年05月24日 [JavaScript函数](https://blog.ansheng.me/article/python-full-stack-way-javascript-function)
-- 2017年05月24日 [JavaScript语句](https://blog.ansheng.me/article/python-full-stack-way-javascript-statements)
-- 2017年05月24日 [JavaScript基础](https://blog.ansheng.me/article/python-full-stack-way-javascript-foundation)
+- 2017年05月24日 [JavaScript DOM](https://blog.ansheng.me/article/javascript-dom)
+- 2017年05月24日 [JavaScript函数](https://blog.ansheng.me/article/javascript-function)
+- 2017年05月24日 [JavaScript语句](https://blog.ansheng.me/article/javascript-statements)
+- 2017年05月24日 [JavaScript基础](https://blog.ansheng.me/article/javascript-foundation)
 - 2017年05月24日 [晒晒我的Hexo+Nginx+SSL搭建的纯静态博客](https://blog.ansheng.me/article/hexo-nginx-built-purely-static-blog)
+
+
+
+
 - 2017年05月24日 [Cobbler定制安装及重装系统](https://blog.ansheng.me/article/cobbler-custom-installation-and-reinstall-the-system)
 - 2017年05月24日 [初识Cobbler自动安装Linux](https://blog.ansheng.me/article/acquaintance-cobbler-automatically-install-linux)
 - 2017年05月24日 [Ubuntu安装配置SSH服务](https://blog.ansheng.me/article/ubuntu-install-configuration-ssh)
