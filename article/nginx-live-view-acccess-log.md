@@ -125,4 +125,4 @@ location /logs {
 ```
 然后再打开的时候就会提示输入账号和密码，登陆之后才可以查看。
 
-![nginx-web-03](../images/2016/12/1483012921991.png)
+![nginx-web-03](../images/2016/12/nginx-web-03.png)
