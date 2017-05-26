@@ -375,7 +375,7 @@ return render_to_response('dateapp/current_datetime.html', {'current_date': now}
     \{\% block footer %\}\
     <hr>
     <p>Thanks for visiting my site.</p>
-    {% endblock %}
+    \{\% endblock %\}\
 </body>
 </html>
 ```
