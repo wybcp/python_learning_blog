@@ -387,13 +387,13 @@ return render_to_response('dateapp/current_datetime.html', {'current_date': now}
 修改`current_datetime.html`文件内容为
 
 ```html
-{% extends "includes/base.html" %}
+\{\% extends "includes/base.html" %\}\
 
-{% block title %}The current time{% endblock %}
+\{\% block title %\}\The current time\{\% endblock %\}\
 
-{% block content %}
+\{\% block content %\}\
 <p>It is now {{ current_date }}.</p>
-{% endblock %}
+\{\% endblock %\}\
 ```
 
 **以下是其工作方式:**
