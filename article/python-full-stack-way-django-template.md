@@ -84,9 +84,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 `{ %` `if` `% }`标签检查一个变量的值是否为真或者等于另外一个值，如果为真，系统会执行`{ %` `if` `% }`和`{ %` `endif` `% }`之间的代码块，例如：
 
 ```html
-{% if today_is_weekend %}
+\{\% if today_is_weekend %\{\
     <p>Welcome to the weekend!</p>
-{% endif %}
+\{\% endif %\{\
 ```
 
 `{ %` `else` `% }`标签是可选的：
@@ -96,33 +96,33 @@ Type "help", "copyright", "credits" or "license" for more information.
 `{ %` `if` `% }`标签不允许在同一个标签中同时使用`and`和`or`，因为逻辑上可能模糊的,比如这样的代码是不合法的：
 
 ```html
-{% if athlete_list and coach_list or cheerleader_list %}
+\{\% if athlete_list and coach_list or cheerleader_list %\{\
 ```
 
 系统不支持用圆括号来组合比较操作，如果你确实需要用到圆括号来组合表达你的逻辑式，考虑将它移到模板之外处理，然后以模板变量的形式传入结果吧，或者，仅仅用嵌套的`{ %` `if` `% }`标签替换吧，就像这样：
 
 
 ```html
-{% if athlete_list %}
-    {% if coach_list or cheerleader_list %}
+\{\% if athlete_list %\{\
+    \{\% if coach_list or cheerleader_list %\{\
         We have athletes, and either coaches or cheerleaders!
-    {% endif %}
-{% endif %}
+    \{\% endif %\{\
+\{\% endif %\{\
 ```
 多次使用同一个逻辑操作符是没有问题的，但是我们不能把不同的操作符组合起来。 例如，这是合法的：
 ```html
-{% if athlete_list or coach_list or parent_list or teacher_list %}
+\{\% if athlete_list or coach_list or parent_list or teacher_list %\{\
 ```
 并没有`{ %` `elif` `% }`标签，使用嵌套的`{ %` `if` `% }`标签来达成同样的效果:
 ```html
-{% if athlete_list %}
+\{\% if athlete_list %\{\
     <p>Here are the athletes: {{ athlete_list }}.</p>
-{% else %}
+\{\% else %\{\
     <p>No athletes are available.</p>
-    {% if coach_list %}
+    \{\% if coach_list %\{\
         <p>Here are the coaches: {{ coach_list }}.</p>
-    {% endif %}
-{% endif %}
+    \{\% endif %\{\
+\{\% endif %\{\
 ```
 一定要用`{ %` `endif` `% }`关闭每一个`{ %` `if` `% }`标签
 
@@ -134,19 +134,19 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ```html
 <ul>
-	{% for athlete in athlete_list reversed  %}
+	\{\% for athlete in athlete_list reversed  %\{\
 		<li>{{ athlete.name }}</li>
-	{% endfor %}
+	\{\% endfor %\{\
 </ul>
 ```
 
 在执行循环之前先检测列表的大小为空时输出一些特别的提示:
 ```html
-{% for athlete in athlete_list %}
+\{\% for athlete in athlete_list %\{\
     <p>{{ athlete.name }}</p>
 \{\% else %\}\或者\{\% empty \%\}
     <p>There are no athletes. Only computer programmers.</p>
-{% endfor %}
+\{\% endfor %\{\
 ```
 
 Django不支持退出循环操作，也不支持continue语句。
@@ -335,20 +335,20 @@ return render_to_response('dateapp/current_datetime.html', {'current_date': now}
 下面这两个例子都包含了`nav.html`模板
 
 ```html
-{% include 'nav.html' %}
-{% include "nav.html" %}
+\{\% include 'nav.html' %\{\
+\{\% include "nav.html" %\{\
 ```
 
 下面的例子包含了`includes/nav.html`模板的内容:
 
 ```html
-{% include 'includes/nav.html' %}
+\{\% include 'includes/nav.html' %\{\
 ```
 
 下面的例子包含了以变量`template_nam`的值为名称的模板内容：
 
 ```html
-{% include template_name %}
+\{\% include template_name %\{\
 ```
 
 如果`{ %` `include` `% }`标签指定的模板没找到，Django将会在下面两个处理方法中选择一个：
