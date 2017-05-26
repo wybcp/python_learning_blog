@@ -2,7 +2,7 @@
 
 ## 声明
 
-以下文章正在更新，待完成更新之后会重新整理，欢迎收藏。
+博客托管于[GitHub](https://github.com/anshengme/blog),有问题欢迎提[Issues](https://github.com/anshengme/blog/issues)
 
 -------------------------
 
@@ -77,7 +77,8 @@
 3. [Python进阶强化训练之文件I/O高效处理技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-file-i-o-efficient-handling-skills)
 4. [Python进阶强化训练之对象迭代与反迭代技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-object-iteration-and-anti-iterative-technique)
 5. [Python进阶强化训练之字符串处理技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-String-handling-skills)
-5. [Python进阶强化训练之类与对象深度技术进阶](https://blog.ansheng.me/article/advanced-python-intensive-training-of-class-and-object)
+6. [Python进阶强化训练之类与对象深度技术进阶](https://blog.ansheng.me/article/advanced-python-intensive-training-of-class-and-object)
+
 -------------------------
 
 ## 算法篇
