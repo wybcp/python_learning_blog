@@ -144,7 +144,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```html
 {% for athlete in athlete_list %}
     <p>{{ athlete.name }}</p>
-{% else %}或者{% empty %}
+\{\% else %\}\或者\{\% empty \%\}
     <p>There are no athletes. Only computer programmers.</p>
 {% endfor %}
 ```
