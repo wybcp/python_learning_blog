@@ -73,7 +73,7 @@
 ## Python进阶强化训练篇
 
 1. [Python进阶强化训练之装饰器使用技巧进阶](https://blog.ansheng.me/article/advanced-python-intensive-training-of-advanced-decorator-tips)
-2. [Python进阶强化训练之csv|json|xml|excel高](https://blog.ansheng.me/article/advanced-python-intensive-training-of-csv-json-xml-excel-efficient-parsing-and-construction-skills)
+2. [Python进阶强化训练之csv、json、xml、excel高](https://blog.ansheng.me/article/advanced-python-intensive-training-of-csv-json-xml-excel-efficient-parsing-and-construction-skills)
 3. [Python进阶强化训练之文件I/O高效处理技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-file-i-o-efficient-handling-skills)
 4. [Python进阶强化训练之对象迭代与反迭代技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-object-iteration-and-anti-iterative-technique)
 5. [Python进阶强化训练之字符串处理技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-String-handling-skills)
