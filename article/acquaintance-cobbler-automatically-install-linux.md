@@ -6,8 +6,6 @@ cobbler官网：http://cobbler.github.io/
 
 以上是官网给的介绍，用个人的话来说就是`cobbler`就是一款通过网络快速安装Linux操作系统的产品，cobbler可以配置，管理DNS和DHCP，包括软件包的更新，电源管理，配置管理流程等，类似于`PXE`+`Kickstart`。
 
----
-
 ## 环境介绍
 
 |HostName|IP|OS|Character|

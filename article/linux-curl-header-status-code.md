@@ -11,8 +11,6 @@ Date: Tue, 26 Apr 2016 02:13:10 GMT
 Connection: keep-alive
 ```
 
----
-
 通常我们在监控Web服务的时候，可以根据Web的HTTP状态码来判断Web服务是否工作正常，如果我们使用grep过滤第一行，会发现会输出很多不必要的信息：
 
 ```bash
