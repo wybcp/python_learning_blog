@@ -367,7 +367,7 @@ return render_to_response('dateapp/current_datetime.html', {'current_date': now}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{% block title %}{% endblock %}</title>
+    <title>\{\% block title %\}\{\% endblock %\}\</title>
 </head>
 <body>
     <h1>My helpful timestamp site</h1>
