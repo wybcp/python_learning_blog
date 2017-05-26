@@ -173,7 +173,7 @@ Django不支持退出循环操作，也不支持continue语句。
 ```html
 \{\% ifequal user currentuser %\}\
     <h1>Welcome!</h1>
-{% endifequal %}
+\{\% endifequal %\}\
 
 ```
 
@@ -367,15 +367,15 @@ return render_to_response('dateapp/current_datetime.html', {'current_date': now}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{% block title %}{% endblock %}</title>
+    <title>\{\% block title %\}\{\% endblock %\}\</title>
 </head>
 <body>
     <h1>My helpful timestamp site</h1>
-    {% block content %}{% endblock %}
-    {% block footer %}
+    \{\% block content %\}\{\% endblock %\}\
+    \{\% block footer %\}\
     <hr>
     <p>Thanks for visiting my site.</p>
-    {% endblock %}
+    \{\% endblock %\}\
 </body>
 </html>
 ```
@@ -387,13 +387,13 @@ return render_to_response('dateapp/current_datetime.html', {'current_date': now}
 修改`current_datetime.html`文件内容为
 
 ```html
-{% extends "includes/base.html" %}
+\{\% extends "includes/base.html" %\}\
 
-{% block title %}The current time{% endblock %}
+\{\% block title %\}\The current time\{\% endblock %\}\
 
-{% block content %}
+\{\% block content %\}\
 <p>It is now {{ current_date }}.</p>
-{% endblock %}
+\{\% endblock %\}\
 ```
 
 **以下是其工作方式:**
