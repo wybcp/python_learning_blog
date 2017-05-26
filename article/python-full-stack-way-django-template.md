@@ -173,7 +173,7 @@ Django不支持退出循环操作，也不支持continue语句。
 ```html
 \{\% ifequal user currentuser %\}\
     <h1>Welcome!</h1>
-{% endifequal %}
+\{\% endifequal %\}\
 
 ```
 
