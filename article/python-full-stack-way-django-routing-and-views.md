@@ -69,7 +69,7 @@ def index(request):
             return HttpResponse("登陆成功")
     return render(request, 'index.html')
 # index.html
-<form action="{% url 'bieming' %}" method="post">
+<form action="\{\% url 'bieming' %\}\" method="post">
 	 用户名:<input type="text" name="username">
 	 密码:<input type="password" name="password">
 	 <input type="submit" value="submit">
