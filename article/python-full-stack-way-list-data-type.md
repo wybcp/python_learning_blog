@@ -6,7 +6,7 @@
 
 第一种
 
-```pyhton
+```python
 name_list = ['Python', 'PHP', 'JAVA']
 ```
 
@@ -210,7 +210,7 @@ list在把字符串转换成列表的时候，会把字符串用for循环迭代�
 ```python
 >>> name_list = ['Python', 'PHP', 'JAVA']
 >>> name_list
-['PHP', 'JAVA', 'Python']
+['Python', 'PHP', 'JAVA']
 >>> name_list.reverse()
 >>> name_list
 ['JAVA', 'PHP', 'Python']
