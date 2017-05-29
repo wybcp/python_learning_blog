@@ -6,7 +6,7 @@
 博客托管于[GitHub](https://github.com/anshengme/blog),有问题欢迎提[Issues](https://github.com/anshengme/blog/issues)
 
 ---
-
+- 2017年05月29日 [Linux正则表达式范例](https://blog.ansheng.me/article/examples-of-linux-regular-expressions)
 - 2017年05月27日 [使用GitHub做个人博客](https://blog.ansheng.me/article/use-github-as-a-personal-blog)
 - 2017年05月24日 [关于TypeScript你需要了解的知识](https://blog.ansheng.me/article/about-typescript-you-need-to-know-the-knowledge)
 - 2017年05月24日 [Docker快速入门指南](https://blog.ansheng.me/article/docker-quick-start-guide)
@@ -33,7 +33,6 @@
 - 2017年05月24日 [使用curl命令获取网站的header头及状态码](https://blog.ansheng.me/article/linux-curl-header-status-code)
 - 2017年05月24日 [ssh-keygen批量分发](https://blog.ansheng.me/article/ssh-keygen)
 - 2017年05月24日 [合格的Linux运维必会考试题及答案](https://blog.ansheng.me/article/ops-linux-exam-questions)
-- 2017年05月24日 [Linux基础正则表达式](https://blog.ansheng.me/article/linux-regular-expressions)
 - 2017年05月24日 [编译安装LNMP（Linux+Nginx+MySQL+PHP）](https://blog.ansheng.me/article/compile-install-lnmp)
 - 2017年05月24日 [YUM全自动快速安装LAMP](https://blog.ansheng.me/article/yum-install-lamp)
 - 2017年05月24日 [Nginx实现浏览器实时查看访问日志](https://blog.ansheng.me/article/nginx-live-view-acccess-log)
