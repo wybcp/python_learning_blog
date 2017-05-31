@@ -2,10 +2,11 @@
 
 > [Python全栈之路系列文章](https://blog.ansheng.me/article/python-full-stack-way)
 
-
-博客托管于[GitHub](https://github.com/anshengme/blog),有问题欢迎提[Issues](https://github.com/anshengme/blog/issues)
+博客托管于[GitHub](https://github.com/anshengme/blog),有问题欢迎提[issues](https://github.com/anshengme/blog/issues)
 
 ---
+
+- 2017年05月31日 [Bash Shell编程指南之基础](https://blog.ansheng.me/article/bash-shell-programming-guide)
 - 2017年05月29日 [Linux正则表达式范例](https://blog.ansheng.me/article/examples-of-linux-regular-expressions)
 - 2017年05月27日 [使用GitHub做个人博客](https://blog.ansheng.me/article/use-github-as-a-personal-blog)
 - 2017年05月24日 [关于TypeScript你需要了解的知识](https://blog.ansheng.me/article/about-typescript-you-need-to-know-the-knowledge)
