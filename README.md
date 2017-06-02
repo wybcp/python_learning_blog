@@ -6,6 +6,7 @@
 
 ---
 
+- 2017年06月03日 [Bash Shell编程指南之范例](https://blog.ansheng.me/article/bash-shell-programming-guide-example)
 - 2017年06月03日 [Bash Shell编程指南之数组](https://blog.ansheng.me/article/bash-shell-programming-guide-to-the-array)
 - 2017年06月03日 [Bash Shell编程指南之流程控制](https://blog.ansheng.me/article/bash-shell-programming-guide-for-process-control)
 - 2017年06月02日 [Bash Shell编程指南之if判断](https://blog.ansheng.me/article/bash-shell-programming-guide-if-judgment)
