@@ -7,6 +7,7 @@
 ---
 
 - 2017年06月02日 [Bash Shell编程指南之if判断](https://blog.ansheng.me/article/bash-shell-programming-guide-if-judgment)
+- 2017年06月02日 [Bash Shell编程指南之条件测试](https://blog.ansheng.me/article/bash-shell-programming-guide-conditional-test)
 - 2017年06月01日 [Bash Shell编程指南之变量](https://blog.ansheng.me/article/bash-shell-programming-guide-for-variables)
 - 2017年05月31日 [Bash Shell编程指南之基础](https://blog.ansheng.me/article/bash-shell-programming-guide)
 - 2017年05月29日 [Linux正则表达式范例](https://blog.ansheng.me/article/examples-of-linux-regular-expressions)
