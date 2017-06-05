@@ -126,3 +126,5 @@ Language.objects.filter(add_time__range=(current_date, current_date + timedelta(
 在`stackoverflow`也有一篇比较好的回答： 
 
 * [How can I filter a date of a DateTimeField in Django?](https://stackoverflow.com/questions/1317714/how-can-i-filter-a-date-of-a-datetimefield-in-django)
+
+> When USE_TZ is True, fields are converted to the current time zone before filtering.
