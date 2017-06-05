@@ -42,3 +42,9 @@ $ sudo update-pepperflashplugin-nonfree --install
 $ sudo apt-get install alien
 $ sudo alien xxx.rpm
 ```
+
+- Ubuntu任务栏点击最小化
+
+```bash
+$ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-minimize-window true
+```
