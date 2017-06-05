@@ -31,6 +31,7 @@ $ npm config set registry http://registry.npm.taobao.org
 - Ubuntu chromium安装Flash
 
 ```bash
+$ sudo apt-get install chromium-browser
 $ sudo apt-get install pepperflashplugin-nonfree
 $ sudo update-pepperflashplugin-nonfree --install
 ```
