@@ -6,6 +6,7 @@
 
 ---
 
+- 2017年06月07日 [Ubuntu上使用virtualenv和virtualenvwrapper](https://blog.ansheng.me/article/ubuntu-uses-virtualenv-and-virtualenvwrapper)
 - 2017年06月04日 [Django ORM获取指定天数据的几种方式](https://blog.ansheng.me/article/django-orm-gets-several-ways-to-specify-day-data)
 - 2017年06月03日 [记一些杂技（持续更新）](https://blog.ansheng.me/article/remember-some-acrobatics)
 - 2017年06月03日 [Bash Shell编程指南之范例](https://blog.ansheng.me/article/bash-shell-programming-guide-example)
