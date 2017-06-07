@@ -18,15 +18,11 @@ $ sudo pip3 install virtualenv virtualenvwrapper
 
 ```bash
 $ echo 'export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3' >> .bashrc 
-$ tail -1 .bashrc 
+$ echo 'source /usr/local/bin/virtualenvwrapper.sh' >> .bashrc 
+$ tail -2 .bashrc 
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+source /usr/local/bin/virtualenvwrapper.sh
 $ source .bashrc 
-```
-
-- 生成virtualenvwrapper
-
-```bash
-$ source /usr/local/bin/virtualenvwrapper.sh
 ```
 
 ## 使用
