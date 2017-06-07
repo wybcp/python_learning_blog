@@ -48,3 +48,9 @@ $ sudo alien xxx.rpm
 ```bash
 $ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-minimize-window true
 ```
+
+- Linux制作U盘镜像
+
+```bash
+$ dd if=ISOFILE of=/dev/sdX
+```
