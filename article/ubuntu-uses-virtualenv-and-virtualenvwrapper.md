@@ -71,7 +71,7 @@ Removing as...
 ~$ 
 ```
 
-## 参考
+## 参考文章
 
 * [Virtual Environments](https://python-guide.readthedocs.io/en/latest/dev/virtualenvs/)
 * [Virtualenv with Virtualenvwrapper on Ubuntu](http://roundhere.net/journal/virtualenv-ubuntu-12-10/)
