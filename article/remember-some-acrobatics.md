@@ -54,3 +54,11 @@ $ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unitysh
 ```bash
 $ dd if=ISOFILE of=/dev/sdX
 ```
+
+- Docker中Python中文错误
+
+> UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-8: ordinal not in range(128)
+
+```bash
+$ docker run -it --name python -e PYTHONIOENCODING=utf-8 -e LANG=en_US.utf8 -e LANGUAGE=en_US.utf8 -e LANG_ALL=en_US.utf8 -e LC_ALL=en_US.utf8 centos /bin/bash
+```
