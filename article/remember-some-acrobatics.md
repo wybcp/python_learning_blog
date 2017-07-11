@@ -60,15 +60,15 @@ dd if=ISOFILE of=/dev/sdX
 > UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-8: ordinal not in range(128)
 
 ```bash
-docker run -it --name python -e PYTHONIOENCODING=utf-8 -e LANG=en_US.utf8 -e LANGUAGE=en_US.utf8 -e LANG_ALL=en_US.utf8 -e LC_ALL=en_US.utf8 centos /bin/bash
+docker run -it --name python -e PYTHONIOENCODING=utf-8 -e LANG=C.UTF-8 -e LANGUAGE=C.UTF-8 -e LANG_ALL=C.UTF-8 -e LC_ALL=C.UTF-8 centos /bin/bash
 ```
 
 或者进入容器执行以下指令设置字符集
 
 ```bash
 export PYTHONIOENCODING=utf-8
-export LANG=en_US.utf8
-export LANGUAGE=en_US.utf8
-export LANG_ALL=en_US.utf8
-export LC_ALL=en_US.utf8
+export LANG=C.UTF-8
+export LANGUAGE=C.UTF-8
+export LANG_ALL=C.UTF-8
+export LC_ALL=C.UTF-8
 ```
