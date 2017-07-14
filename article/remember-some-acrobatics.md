@@ -87,3 +87,12 @@ PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
 export http_proxy=http://IP:PORT
 export https_proxy=http://IP:PORT
 ```
+
+- git使用Token
+
+```bash
+# .netrc 
+machine IP
+  login Username
+  password Token
+```
