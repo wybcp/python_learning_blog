@@ -72,3 +72,18 @@ export LANGUAGE=C.UTF-8
 export LANG_ALL=C.UTF-8
 export LC_ALL=C.UTF-8
 ```
+
+- 修改Linux PS1前缀
+
+```bash
+# .bashrc
+PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+```
+
+- 命令行设置代理
+
+```bash
+# .bashrc
+export http_proxy=http://IP:PORT
+export https_proxy=http://IP:PORT
+```
