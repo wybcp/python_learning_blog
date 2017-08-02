@@ -6,6 +6,7 @@
 
 ---
 
+- 2017年08月02日 [Nginx从入门到实践系列之基础篇](https://blog.ansheng.me/article/nginx-from-entry-to-practice)
 - 2017年06月07日 [Ubuntu上使用virtualenv和virtualenvwrapper](https://blog.ansheng.me/article/ubuntu-uses-virtualenv-and-virtualenvwrapper)
 - 2017年06月04日 [Django ORM获取指定天数据的几种方式](https://blog.ansheng.me/article/django-orm-gets-several-ways-to-specify-day-data)
 - 2017年06月03日 [记一些杂技（持续更新）](https://blog.ansheng.me/article/remember-some-acrobatics)
