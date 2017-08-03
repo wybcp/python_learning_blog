@@ -96,3 +96,9 @@ machine IP
   login Username
   password Token
 ```
+
+- pip更新所有包
+
+```bash
+pip install -U $(pip freeze | awk '{split($0, a, "=="); print a[1]}')
+```
