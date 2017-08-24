@@ -5,8 +5,8 @@
 迫于环境的复杂性，我们从`Docker`启动一个`CentOS(version:7)`容器来做当做虚拟机用吧．
 
 ```bash
-# 映射一个80端口出来供我们测试
-$ sudo docker run --name nginx -it -p 80:80 centos /bin/bash
+# 映射一个80和443端口出来供我们测试
+$ sudo docker run --name nginx -it -p 80:80 -p 443:443 centos /bin/bash
 [root@920289892f54 /]#
 ```
 
