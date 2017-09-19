@@ -50,7 +50,7 @@ Process finished with exit code 0
 
 ## 执行父类的构造方法
 ```Python
-class Annimal:
+class Annimal(object):
     def __init__(self):
         print("Annimal的构造方法")
         self.ty = "动物"
