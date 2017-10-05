@@ -70,17 +70,6 @@
 
 -------------------------
 
-## Python进阶强化训练篇
-
-1. [Python进阶强化训练之装饰器使用技巧进阶](https://blog.ansheng.me/article/advanced-python-intensive-training-of-advanced-decorator-tips)
-2. [Python进阶强化训练之csv、json、xml、excel高](https://blog.ansheng.me/article/advanced-python-intensive-training-of-csv-json-xml-excel-efficient-parsing-and-construction-skills)
-3. [Python进阶强化训练之文件I/O高效处理技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-file-i-o-efficient-handling-skills)
-4. [Python进阶强化训练之对象迭代与反迭代技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-object-iteration-and-anti-iterative-technique)
-5. [Python进阶强化训练之字符串处理技巧](https://blog.ansheng.me/article/advanced-python-intensive-training-of-String-handling-skills)
-6. [Python进阶强化训练之类与对象深度技术进阶](https://blog.ansheng.me/article/advanced-python-intensive-training-of-class-and-object)
-
--------------------------
-
 ## 算法篇
 
 1. [Python算法实战系列之栈](https://blog.ansheng.me/article/python-algorithm-combat-series-stack)
@@ -139,19 +128,5 @@
 20. [Python标准库系列之Paramiko模块](https://blog.ansheng.me/article/python-standard-library-paramiko)
 21. [Python标准库系列之Memcache模块](https://blog.ansheng.me/article/python-standard-library-memcache)
 22. [Python标准库系列之Redis模块](https://blog.ansheng.me/article/python-standard-library-redis)
-
--------------------------
-
-## MySQL数据库
-
-1. [Python全栈之路系列之MySQL数据库基本操作](https://blog.ansheng.me/article/python-full-stack-way-mysql-database-basic-operation)
-2. [Python全栈之路系列之MySQL基本数据类型](https://blog.ansheng.me/article/python-full-stack-way-mysql-type-of-data)
-3. [Python全栈之路系列之MySQL表内操作](https://blog.ansheng.me/article/python-full-stack-way-mysql-operating-table)
-4. [Python全栈之路系列之MySQL外键](https://blog.ansheng.me/article/python-full-stack-way-mysql-foreign-key)
-5. [Python全栈之路系列之MySQL连表查询](https://blog.ansheng.me/article/python-full-stack-way-mysql-even-table-query)
-6. [Python全栈之路系列之MySQL存储过程](https://blog.ansheng.me/article/python-full-stack-way-mysql-stored-procedures)
-7. [Python全栈之路系列之MySQL视图](https://blog.ansheng.me/article/python-full-stack-way-mysql-view)
-8. [Python全栈之路系列之MySQL触发器](https://blog.ansheng.me/article/python-full-stack-way-mysql-trigger)
-9. [Python全栈之路系列之MySQL SQL注入](https://blog.ansheng.me/article/python-full-stack-way-mysql-sql-injection)
 
 -------------------------
