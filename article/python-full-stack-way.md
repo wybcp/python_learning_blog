@@ -16,10 +16,10 @@
 6. [Python全栈之路系列之元组数据类型](https://blog.ansheng.me/article/python-full-stack-way-tuple-data-type)
 7. [Python全栈之路系列之赋值与运算符](https://blog.ansheng.me/article/python-full-stack-way-assignment-and-operator)
 8. [Python全栈之路系列之流程控制](https://blog.ansheng.me/article/python-full-stack-way-process-control)
-9. [Python全栈之路系列之Win字符编码深解](https://blog.ansheng.me/article/python-full-stack-way-win-character-encoding)
-10. [Python全栈之路系列之深浅拷贝](https://blog.ansheng.me/article/python-full-stack-way-depth-copy)
-11. [Python全栈之路系列之函数](https://blog.ansheng.me/article/python-full-stack-way-function)
-12.  [Python全栈之路系列之Python3内置函数](https://blog.ansheng.me/article/python-full-stack-way-built-in-functions)
+9. [Python全栈之路系列之深浅拷贝](https://blog.ansheng.me/article/python-full-stack-way-depth-copy)
+10. [Python全栈之路系列之函数](https://blog.ansheng.me/article/python-full-stack-way-function)
+11. [Python标准库系列之模块默认全局变量](https://blog.ansheng.me/article/python-standard-library-default-global-variables)
+12. [Python全栈之路系列之内置函数](https://blog.ansheng.me/article/python-full-stack-way-built-in-functions)
 
 -------------------------
 
@@ -33,6 +33,7 @@
 6. [Python全栈之路系列之迭代器与生成器](https://blog.ansheng.me/article/python-full-stack-way-Iterators-and-generators)
 7. [Python全栈之路系列之反射](https://blog.ansheng.me/article/python-full-stack-way-reflection)
 8. [Python全栈之路系列之异常处理](https://blog.ansheng.me/article/python-full-stack-way-exception-handling)
+9. [Python全栈之路系列之Web框架介绍](https://blog.ansheng.me/article/python-full-stack-way-web-framework)
 
 -------------------------
 
@@ -60,53 +61,50 @@
 
 -------------------------
 
-## 高级篇
-
-1. [Python全栈之路系列之Web框架介绍](https://blog.ansheng.me/article/python-full-stack-way-web-framework)
-2. [Python全栈之路系列之SQLAlchemy](https://blog.ansheng.me/article/python-full-stack-way-sqlalchemy)
-3. [Python全栈之路系列之RabbitMQ](https://blog.ansheng.me/article/python-full-stack-way-rabbitmq)
-4. [Python全栈之路系列之scrapy爬虫](https://blog.ansheng.me/article/python-full-stack-way-scrapy)
-5. [Python全栈之路系列之算法](https://blog.ansheng.me/article/python-full-stack-way-algorithm)
-
--------------------------
-
 ## 算法篇
 
-1. [Python算法实战系列之栈](https://blog.ansheng.me/article/python-algorithm-combat-series-stack)
-2. [Python算法实战系列之队列](https://blog.ansheng.me/article/python-algorithm-combat-series-queue)
-3. [Python算法实战系列之冒泡](https://blog.ansheng.me/article/python-algorithm-combat-series-bubble)
+1. [Python全栈之路系列之算法](https://blog.ansheng.me/article/python-full-stack-way-algorithm)
+2. [Python算法实战系列之栈](https://blog.ansheng.me/article/python-algorithm-combat-series-stack)
+3. [Python算法实战系列之队列](https://blog.ansheng.me/article/python-algorithm-combat-series-queue)
+4. [Python算法实战系列之冒泡](https://blog.ansheng.me/article/python-algorithm-combat-series-bubble)
 
 -------------------------
 
 ## 设计模式篇
 
-1. [Python全栈之路系列之单例设计模式](https://blog.ansheng.me/article/python-full-stack-way-singleton-design-pattern)
+1. [Python设计模式之单例设计模式](https://blog.ansheng.me/article/python-full-stack-way-singleton-design-pattern)
 
 -------------------------
 
 ## Python标准库
 
-1. [Python标准库系列之模块介绍](https://blog.ansheng.me/article/python-standard-library-introduction)
-2. [如何安装Python第三方模块](https://blog.ansheng.me/article/python-install-third-party-modules)
-3. [Python标准库系列之os模块](https://blog.ansheng.me/article/python-standard-library-os)
-4. [Python标准库系列之sys模块](https://blog.ansheng.me/article/python-standard-library-sys)
-5. [Python标准库系列之json模块](https://blog.ansheng.me/article/python-standard-library-json)
-6. [Python标准库系列之模块默认全局变量](https://blog.ansheng.me/article/python-standard-library-default-global-variables)
-7. [Python标准库系列之requests模块](https://blog.ansheng.me/article/python-standard-library-requests)
-8. [Python标准库系列之xml模块](https://blog.ansheng.me/article/python-standard-library-xml)
-9. [Python标准库系列之time模块](https://blog.ansheng.me/article/python-standard-library-time)
-10. [Python标准库系列之datetime模块](https://blog.ansheng.me/article/python-standard-library-datetime)
-11. [Python标准库系列之configparser模块](https://blog.ansheng.me/article/python-standard-library-configparser)
-12. [Python标准库系列之subprocess模块](https://blog.ansheng.me/article/python-standard-library-subprocess)
-13. [Python标准库系列之shutil模块](https://blog.ansheng.me/article/python-standard-library-shutil)
-14. [Python标准库系列之zipfile模块](https://blog.ansheng.me/article/python-standard-library-zipfile)
-15. [Python标准库系列之tarfile模块](https://blog.ansheng.me/article/python-standard-library-tarfile)
-16. [Python标准库系列之random模块](https://blog.ansheng.me/article/python-standard-library-random)
-17. [Python标准库系列之hashlib模块](https://blog.ansheng.me/article/python-standard-library-hashlib)
-18. [Python标准库系列之logging模块](https://blog.ansheng.me/article/python-standard-library-logging)
-19. [Python标准库系列之MySQLdb模块](https://blog.ansheng.me/article/python-standard-library-mysqldb)
-20. [Python标准库系列之Paramiko模块](https://blog.ansheng.me/article/python-standard-library-paramiko)
-21. [Python标准库系列之Memcache模块](https://blog.ansheng.me/article/python-standard-library-memcache)
-22. [Python标准库系列之Redis模块](https://blog.ansheng.me/article/python-standard-library-redis)
+1. [Python标准库系列之介绍](https://blog.ansheng.me/article/python-standard-library-introduction)
+2. [Python标准库系列之os](https://blog.ansheng.me/article/python-standard-library-os)
+3. [Python标准库系列之sys](https://blog.ansheng.me/article/python-standard-library-sys)
+4. [Python标准库系列之json](https://blog.ansheng.me/article/python-standard-library-json)
+5. [Python标准库系列之xml](https://blog.ansheng.me/article/python-standard-library-xml)
+6. [Python标准库系列之time](https://blog.ansheng.me/article/python-standard-library-time)
+7. [Python标准库系列之datetime](https://blog.ansheng.me/article/python-standard-library-datetime)
+8. [Python标准库系列之configparser](https://blog.ansheng.me/article/python-standard-library-configparser)
+9. [Python标准库系列之subprocess](https://blog.ansheng.me/article/python-standard-library-subprocess)
+10. [Python标准库系列之shutil](https://blog.ansheng.me/article/python-standard-library-shutil)
+11. [Python标准库系列之zipfile](https://blog.ansheng.me/article/python-standard-library-zipfile)
+12. [Python标准库系列之tarfile](https://blog.ansheng.me/article/python-standard-library-tarfile)
+13. [Python标准库系列之random](https://blog.ansheng.me/article/python-standard-library-random)
+14. [Python标准库系列之hashlib](https://blog.ansheng.me/article/python-standard-library-hashlib)
+15. [Python标准库系列之logging](https://blog.ansheng.me/article/python-standard-library-logging)
+
+-------------------------
+
+## Python第三方库
+
+1. [Python第三方库系列之MySQLdb](https://blog.ansheng.me/article/python-standard-library-mysqldb)
+2. [Python第三方库系列之Paramiko](https://blog.ansheng.me/article/python-standard-library-paramiko)
+3. [Python第三方库系列之Memcache](https://blog.ansheng.me/article/python-standard-library-memcache)
+4. [Python第三方库系列之Redis](https://blog.ansheng.me/article/python-standard-library-redis)
+5. [Python第三方库系列之SQLAlchemy](https://blog.ansheng.me/article/python-full-stack-way-sqlalchemy)
+6. [Python第三方库系列之RabbitMQ](https://blog.ansheng.me/article/python-full-stack-way-rabbitmq)
+7. [Python第三方库系列之scrapy](https://blog.ansheng.me/article/python-full-stack-way-scrapy)
+8. [Python第三方库系列之requests](https://blog.ansheng.me/article/python-standard-library-requests)
 
 -------------------------
