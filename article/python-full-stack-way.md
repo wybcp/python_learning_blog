@@ -84,26 +84,6 @@
 
 -------------------------
 
-## Django框架
-
-2. [Python全栈之路系列之Django初体验](https://blog.ansheng.me/article/python-full-stack-way-django-first-experience)
-3. [Python全栈之路系列之Django路由与视图](https://blog.ansheng.me/article/python-full-stack-way-django-routing-and-views)
-4. [Python全栈之路系列之Django模板](https://blog.ansheng.me/article/python-full-stack-way-django-template)
-5. [Python全栈之路系列之Django模型](https://blog.ansheng.me/article/python-full-stack-way-django-model)
-6. [Python全栈之路系列之Django模型续](https://blog.ansheng.me/article/python-full-stack-way-django-model-continued)
-7. [Python全栈之路系列之Django站点管理](https://blog.ansheng.me/article/python-full-stack-way-django-site-management)
-8. [Python全栈之路系列之Django表单](https://blog.ansheng.me/article/python-full-stack-way-django-form)
-9. [Python全栈之路系列之Django Cookie与Session](https://blog.ansheng.me/article/python-full-stack-way-django-cookie-and-session)
-
--------------------------
-
-## Tornado框架
-
-1. [Python全栈之路系列之Tornado Web框架](https://blog.ansheng.me/article/python-full-stack-way-tornado-web-framework)
-2. [Python全栈之路系列之Tornado的Cookie与Session](https://blog.ansheng.me/article/python-full-stack-way-tornado-cookie-and-session)
-
--------------------------
-
 ## Python标准库
 
 1. [Python标准库系列之模块介绍](https://blog.ansheng.me/article/python-standard-library-introduction)
