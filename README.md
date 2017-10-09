@@ -6,6 +6,7 @@
 
 ---
 
+- 2017年10月09日 [Nginx从入门到实践系列之深度学习篇](https://blog.ansheng.me/article/nginx-depth-study)
 - 2017年10月09日 [初入编辑器之神：Vim](https://blog.ansheng.me/article/the-god-of-the-beginning-of-the-editor)
 - 2017年09月30日 [使用Python的30个技巧](https://blog.ansheng.me/article/python-30-tips)
 - 2017年09月30日 [Python itertools指南](https://blog.ansheng.me/article/python-itertools-guide)
