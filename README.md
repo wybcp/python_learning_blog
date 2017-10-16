@@ -6,6 +6,7 @@
 
 ---
 
+- 2017年10月11日 [Django中使用Oracle数据库](https://blog.ansheng.me/article/django-using-oracle-database)
 - 2017年10月11日 [Django中的递归模型关系](https://blog.ansheng.me/article/recursive-model-relationships-in-django)
 - 2017年10月09日 [Nginx从入门到实践系列之深度学习篇](https://blog.ansheng.me/article/nginx-depth-study)
 - 2017年10月09日 [初入编辑器之神：Vim](https://blog.ansheng.me/article/the-god-of-the-beginning-of-the-editor)
