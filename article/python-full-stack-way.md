@@ -1,4 +1,4 @@
-# Python全栈之路系列文章
+# Python全栈之路
 
 ## 声明
 
@@ -8,65 +8,62 @@
 
 ## 基础篇
 
-1. [Python全栈之路系列之基础篇](https://blog.ansheng.me/article/python-full-stack-way-basics)
-2. [Python全栈之路系列之数字数据类型](https://blog.ansheng.me/article/python-full-stack-way-digital-data-type)
-3. [Python全栈之路系列之字符串数据类型](https://blog.ansheng.me/article/python-full-stack-way-string-data-type)
-4. [Python全栈之路系列之列表数据类型](https://blog.ansheng.me/article/python-full-stack-way-list-data-type)
-5. [Python全栈之路系列之字典数据类型](https://blog.ansheng.me/article/python-full-stack-way-dict-data-type)
-6. [Python全栈之路系列之元组数据类型](https://blog.ansheng.me/article/python-full-stack-way-tuple-data-type)
-7. [Python全栈之路系列之赋值与运算符](https://blog.ansheng.me/article/python-full-stack-way-assignment-and-operator)
-8. [Python全栈之路系列之流程控制](https://blog.ansheng.me/article/python-full-stack-way-process-control)
-9. [Python全栈之路系列之深浅拷贝](https://blog.ansheng.me/article/python-full-stack-way-depth-copy)
-10. [Python全栈之路系列之函数](https://blog.ansheng.me/article/python-full-stack-way-function)
-11. [Python标准库系列之模块默认全局变量](https://blog.ansheng.me/article/python-standard-library-default-global-variables)
-12. [Python全栈之路系列之内置函数](https://blog.ansheng.me/article/python-full-stack-way-built-in-functions)
+1. [Python基础系列之开篇](https://blog.ansheng.me/article/python-full-stack-way-basics)
+2. [Python基础系列之数字数据类型](https://blog.ansheng.me/article/python-full-stack-way-digital-data-type)
+3. [Python基础系列之字符串数据类型](https://blog.ansheng.me/article/python-full-stack-way-string-data-type)
+4. [Python基础系列之列表数据类型](https://blog.ansheng.me/article/python-full-stack-way-list-data-type)
+5. [Python基础系列之字典数据类型](https://blog.ansheng.me/article/python-full-stack-way-dict-data-type)
+6. [Python基础系列之元组数据类型](https://blog.ansheng.me/article/python-full-stack-way-tuple-data-type)
+7. [Python基础系列之赋值与运算符](https://blog.ansheng.me/article/python-full-stack-way-assignment-and-operator)
+8. [Python基础系列之流程控制](https://blog.ansheng.me/article/python-full-stack-way-process-control)
+9. [Python基础系列之深浅拷贝](https://blog.ansheng.me/article/python-full-stack-way-depth-copy)
+10. [Python基础系列之函数](https://blog.ansheng.me/article/python-full-stack-way-function)
+11. [Python基础系列之模块默认全局变量](https://blog.ansheng.me/article/python-standard-library-default-global-variables)
+12. [Python基础系列之内置函数](https://blog.ansheng.me/article/python-full-stack-way-built-in-functions)
 
 -------------------------
 
 ## 进阶篇
 
-1. [Python全栈之路系列之文件操作](https://blog.ansheng.me/article/python-full-stack-way-file-operations)
-2. [Python全栈之路系列之递归](https://blog.ansheng.me/article/python-full-stack-way-recursion)
-3. [Python全栈之路系列之装饰器](https://blog.ansheng.me/article/python-full-stack-way-decorator)
-4. [Python全栈之路系列之正则表达式re模块](https://blog.ansheng.me/article/python-full-stack-way-regular-expressions)
-5. [Python全栈之路系列之字符串格式化](https://blog.ansheng.me/article/python-full-stack-way-string-formatting)
-6. [Python全栈之路系列之迭代器与生成器](https://blog.ansheng.me/article/python-full-stack-way-Iterators-and-generators)
-7. [Python全栈之路系列之反射](https://blog.ansheng.me/article/python-full-stack-way-reflection)
-8. [Python全栈之路系列之异常处理](https://blog.ansheng.me/article/python-full-stack-way-exception-handling)
-9. [Python全栈之路系列之Web框架介绍](https://blog.ansheng.me/article/python-full-stack-way-web-framework)
+1. [Python进阶系列之文件操作](https://blog.ansheng.me/article/python-full-stack-way-file-operations)
+2. [Python进阶系列之递归](https://blog.ansheng.me/article/python-full-stack-way-recursion)
+3. [Python进阶系列之装饰器](https://blog.ansheng.me/article/python-full-stack-way-decorator)
+4. [Python进阶系列之正则表达式re模块](https://blog.ansheng.me/article/python-full-stack-way-regular-expressions)
+5. [Python进阶系列之字符串格式化](https://blog.ansheng.me/article/python-full-stack-way-string-formatting)
+6. [Python进阶系列之迭代器与生成器](https://blog.ansheng.me/article/python-full-stack-way-Iterators-and-generators)
+7. [Python进阶系列之反射](https://blog.ansheng.me/article/python-full-stack-way-reflection)
+8. [Python进阶系列之异常处理](https://blog.ansheng.me/article/python-full-stack-way-exception-handling)
 
 -------------------------
 
 ## 面向对象篇
 
-1. [Python全栈之路系列之面向对象基础](https://blog.ansheng.me/article/python-full-stack-way-object-oriented-basis)
-2. [Python全栈之路系列之面向对象进阶及类成员](https://blog.ansheng.me/article/python-full-stack-way-object-oriented-advanced)
-3. [Python全栈之路系列之面向对象成员修饰符](https://blog.ansheng.me/article/python-full-stack-way-object-member-modifier)
-4. [Python全栈之路系列之面向对象特殊成员](https://blog.ansheng.me/article/python-full-stack-way-object-special-members)
-5. [Python全栈之路系列之面向对象类成员特性](https://blog.ansheng.me/article/python-full-stack-way-class-members-characteristic)
-6. [Python全栈之路系列之面向对象Python2.7类继承](https://blog.ansheng.me/article/python-full-stack-way-object-oriented-class-inheritance-2.7)
-7. [Python全栈之路系列之面向对象运算符重载](https://blog.ansheng.me/article/python-full-stack-way-object-operator-overload)
+1. [Python面向对象系列之基础](https://blog.ansheng.me/article/python-full-stack-way-object-oriented-basis)
+2. [Python面向对象系列之进阶及类成员](https://blog.ansheng.me/article/python-full-stack-way-object-oriented-advanced)
+3. [Python面向对象系列之成员修饰符](https://blog.ansheng.me/article/python-full-stack-way-object-member-modifier)
+4. [Python面向对象系列之特殊成员](https://blog.ansheng.me/article/python-full-stack-way-object-special-members)
+5. [Python面向对象系列之类成员特性](https://blog.ansheng.me/article/python-full-stack-way-class-members-characteristic)
+6. [Python面向对象系列之运算符重载](https://blog.ansheng.me/article/python-full-stack-way-object-operator-overload)
 
 -------------------------
 
 ## 网络编程篇
 
-1. [Python全栈之路系列之socket](https://blog.ansheng.me/article/python-full-stack-way-socket)
-2. [Python全栈之路系列之基于socket实现聊天机器人](https://blog.ansheng.me/article/python-full-stack-way-socket-chatterbot)
-3. [Python全栈之路系列之基于socket实现文件上传](https://blog.ansheng.me/article/python-full-stack-way-socket-file-upload)
-4. [Python全栈之路系列之socketserver实现多并发](https://blog.ansheng.me/article/python-full-stack-way-socketserver-multiple-concurrent)
-5. [Python全栈之路系列之IO多路复用](https://blog.ansheng.me/article/python-full-stack-way-io-multiplexing)
-6. [Python全栈之路系列之线程与进程](https://blog.ansheng.me/article/python-full-stack-way-threads-and-processes)
-7. [Python全栈之路系列之协程](https://blog.ansheng.me/article/python-full-stack-way-coroutine)
+1. [Python网络编程系列之socket](https://blog.ansheng.me/article/python-full-stack-way-socket)
+2. [Python网络编程系列之基于socket实现聊天机器人](https://blog.ansheng.me/article/python-full-stack-way-socket-chatterbot)
+3. [Python网络编程系列之基于socket实现文件上传](https://blog.ansheng.me/article/python-full-stack-way-socket-file-upload)
+4. [Python网络编程系列之socketserver实现多并发](https://blog.ansheng.me/article/python-full-stack-way-socketserver-multiple-concurrent)
+5. [Python网络编程系列之IO多路复用](https://blog.ansheng.me/article/python-full-stack-way-io-multiplexing)
+6. [Python网络编程系列之线程与进程](https://blog.ansheng.me/article/python-full-stack-way-threads-and-processes)
+7. [Python网络编程系列之协程](https://blog.ansheng.me/article/python-full-stack-way-coroutine)
 
 -------------------------
 
-## 算法篇
+## 数据结构与算法篇
 
-1. [Python全栈之路系列之算法](https://blog.ansheng.me/article/python-full-stack-way-algorithm)
-2. [Python算法实战系列之栈](https://blog.ansheng.me/article/python-algorithm-combat-series-stack)
-3. [Python算法实战系列之队列](https://blog.ansheng.me/article/python-algorithm-combat-series-queue)
-4. [Python算法实战系列之冒泡](https://blog.ansheng.me/article/python-algorithm-combat-series-bubble)
+1. [Python数据结构与算法系列之栈](https://blog.ansheng.me/article/python-algorithm-combat-series-stack)
+2. [Python数据结构与算法系列之队列](https://blog.ansheng.me/article/python-algorithm-combat-series-queue)
+3. [Python数据结构与算法系列之冒泡](https://blog.ansheng.me/article/python-algorithm-combat-series-bubble)
 
 -------------------------
 
