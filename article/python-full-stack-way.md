@@ -63,7 +63,8 @@
 
 1. [Python数据结构与算法系列之栈](https://blog.ansheng.me/article/python-algorithm-combat-series-stack)
 2. [Python数据结构与算法系列之队列](https://blog.ansheng.me/article/python-algorithm-combat-series-queue)
-3. [Python数据结构与算法系列之冒泡](https://blog.ansheng.me/article/python-algorithm-combat-series-bubble)
+3. [Python数据结构与算法系列之冒泡排序](https://blog.ansheng.me/article/python-algorithm-combat-series-bubble)
+4. [Python数据结构与算法系列之选择排序](https://blog.ansheng.me/article/python-data-structure-and-algorithm-series-selection-sort)
 
 -------------------------
 
