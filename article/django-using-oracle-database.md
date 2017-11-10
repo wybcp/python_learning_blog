@@ -118,7 +118,7 @@ $ sudo docker exec oracle sqlplus sys/ansheng.me@//localhost:1521/ansheng as sys
 https://localhost:5500/em/
 ```
 
-##　配置Django项目
+## 配置Django项目
 
 请先切换到虚拟环境在进行以下操作，我使用的是`pyenv`
 
