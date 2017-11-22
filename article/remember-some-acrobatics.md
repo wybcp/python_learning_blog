@@ -102,3 +102,15 @@ machine IP
 ```bash
 pip install -U $(pip freeze | awk '{split($0, a, "=="); print a[1]}')
 ```
+
+- 通过SQLplus连接Oracle
+
+```bash
+sqlplus USER/PWD@//IP:PORY/DB_NAME
+```
+
+- 查询dblink的过来的表数据
+
+```bash
+select * from orders@lin_ks; # 表名@dblink名  
+```
