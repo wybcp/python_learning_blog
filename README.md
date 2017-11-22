@@ -6,6 +6,7 @@
 
 ---
 
+- 2017年11月22日 [在CentOS上使用离线YUM安装软件包](https://blog.ansheng.me/article/use-the-offline-yum-installation-package-on-centos)
 - 2017年11月10日 [两条指令搞定SSH反向隧道](https://blog.ansheng.me/article/ssh-tunnel)
 - 2017年10月16日 [Django中使用Oracle数据库](https://blog.ansheng.me/article/django-using-oracle-database)
 - 2017年10月11日 [Django中的递归模型关系](https://blog.ansheng.me/article/recursive-model-relationships-in-django)
