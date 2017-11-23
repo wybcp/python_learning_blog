@@ -160,6 +160,12 @@ docker kill $(sudo docker ps -a -q)
 $ docker kill $(docker ps -a -q)
 ```
 
+- 删除状态为退出的所有容器
+
+```bash
+$ docker container ls -f status=exited|awk '{print $1}' | awk 'NR>1'|xargs docker container rm
+```
+
 ## 网络
 
 - 随机端口映射
