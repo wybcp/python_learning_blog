@@ -312,3 +312,9 @@ Sat Apr 29 16:52:28 CST 2017
 ```bash
 LANG=en_US.UTF-8
 ```
+
+- 普通用户使用docker
+
+```bash
+sudo gpasswd -a ${USER} docker
+```
