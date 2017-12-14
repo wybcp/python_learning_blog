@@ -44,7 +44,7 @@ $ curl -H "Authorization: Token 379b8e8cafa684d0eaed38d95f227ebf7208de1a" http:/
 $ curl -X PUT -H "Authorization: Token 379b8e8cafa684d0eaed38d95f227ebf7208de1a" -d "name=安安生&username=anansheng" http://localhost/api/user/
 ```
 
-如果你想传入JSON数据，那么可以这样做
+如果你想传入`JSON`数据，那么可以这样做
 
 ```bash
 $ curl -X PUT -H "Content-Type:application/json" -H "Authorization: Token 379b8e8cafa684d0eaed38d95f227ebf7208de1a" -d '{"name":"安安生","username":"anansheng"}' http://localhost/api/user/
