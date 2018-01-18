@@ -164,14 +164,14 @@ False
 'hello     word'
 ```
 
-检测字符串中是否包含子字符串str，如果指定beg(开始)和end(结束)范围，则检查是否包含在指定范围内，如果包含子字符串返回开始的索引值，否则返回-1。
+检测字符串中是否包含子字符串str，如果指定start(开始)和end(结束)范围，则检查是否包含在指定范围内，如果包含子字符串返回开始的索引值，否则返回-1。
 
 > find(self, sub, start=None, end=None):
 
 |参数|描述|
 |:--|:--|
 |str|指定检索的字符串|
-|beg|开始索引，默认为0|
+|start|开始索引，默认为0|
 |end|结束索引，默认为字符串的长度|
 
 ```python
@@ -188,14 +188,14 @@ False
 
 > format(*args, **kwargs): 
 
-检测字符串中是否包含子字符串 str ，如果指定 beg（开始） 和 end（结束） 范围，则检查是否包含在指定范围内，该方法与 python find()方法一样，只不过如果str不在 string中会报一个异常。
+检测字符串中是否包含子字符串 str ，如果指定 start（开始） 和 end（结束） 范围，则检查是否包含在指定范围内，该方法与 python find()方法一样，只不过如果str不在 string中会报一个异常。
 
 > index(self, sub, start=None, end=None):
 
 |参数|描述|
 |:--|:--|
 |str|指定检索的字符串|
-|beg|开始索引，默认为0|
+|start|开始索引，默认为0|
 |end|结束索引，默认为字符串的长度|
 
 ```python
@@ -210,7 +210,7 @@ Traceback (most recent call last):
 ValueError: substring not found
 ```
 
-法检测字符串是否由字母和数字组成，如果string至少有一个字符并且所有字符都是字母或数字则返回True,否则返回False
+检测字符串是否由字母和数字组成，如果string至少有一个字符并且所有字符都是字母或数字则返回True,否则返回False
 
 > isalnum(self): 
 
@@ -393,7 +393,7 @@ True
 >>> string="www.ansheng.me"
 # 把就字符串`www.`换成新字符串`https://`
 >>> string.replace("www.","https://")
-'https://blog.ansheng.me'
+'https://ansheng.me'
 # 就字符串`w`换成新字符串`a`只替换`2`次
 >>> string.replace("w","a",2)
 'aaw.ansheng.me'
@@ -406,7 +406,7 @@ True
 |参数|描述|
 |:--|:--|
 |str|查找的字符串|
-|beg|开始查找的位置，默认为0|
+|start|开始查找的位置，默认为0|
 |end|结束查找位置，默认为字符串的长度|
 
 ```python
@@ -419,14 +419,14 @@ True
 4
 ```
 
-返回子字符串str在字符串中最后出现的位置，如果没有匹配的字符串会报异常，你可以指定可选参数`[beg:end]`设置查找的区间。
+返回子字符串str在字符串中最后出现的位置，如果没有匹配的字符串会报异常，你可以指定可选参数`[start:end]`设置查找的区间。
 
 > rindex(self, sub, start=None, end=None):
 
 |参数|描述|
 |:--|:--|
 |str|查找的字符串|
-|beg|开始查找的位置，默认为0|
+|start|开始查找的位置，默认为0|
 |end|结束查找位置，默认为字符串的长度|
 
 ```python
@@ -532,15 +532,15 @@ me
 ['www\n', 'ansheng\n', 'me']
 ```
 
-检查字符串是否是以指定子字符串开头，如果是则返回 True，否则返回 False。如果参数 beg 和 end 指定值，则在指定范围内检查。
+检查字符串是否是以指定子字符串开头，如果是则返回 True，否则返回 False。如果参数 start 和 end 指定值，则在指定范围内检查。
 
 > startswith(self, prefix, start=None, end=None):
 
 |参数|描述|
 |:--|:--|
 |str|检测的字符串|
-|strbeg|可选参数用于设置字符串检测的起始位置|
-|strend|可选参数用于设置字符串检测的结束位置|
+|start|可选参数用于设置字符串检测的起始位置|
+|end|可选参数用于设置字符串检测的结束位置|
 
 ```python
 >>> string="www.ansheng.me"
