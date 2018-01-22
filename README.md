@@ -6,6 +6,7 @@
 
 ---
 
+- 2018年01月22日 [Celery分布式任务队列](https://blog.ansheng.me/article/celery)
 - 2017年12月19日 [Docker部署Django项目](https://blog.ansheng.me/article/docker-deploy-django)
 - 2017年12月13日 [Unix/Linux Curl命令测试Rest API](https://blog.ansheng.me/article/unix-Linux-curl-command-to-test-the-rest-api)
 - 2017年11月22日 [在CentOS上使用离线YUM安装软件包](https://blog.ansheng.me/article/use-the-offline-yum-installation-package-on-centos)
