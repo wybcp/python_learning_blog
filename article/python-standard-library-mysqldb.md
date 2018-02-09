@@ -65,9 +65,9 @@ MySQLdb.Connect(参数)
 |参数名|说明|
 |:--:|:--|
 |execute("SQL")|执行的SQL语句|
-|fefchone()|获取结果的下一行|
-|fefchmany(size)|获取结果的下几行|
-|fefchall()|获取结果剩下的所有行|
+|fetchone()|获取结果的下一行|
+|fetchmany(size)|获取结果的下几行|
+|fetchall()|获取结果剩下的所有行|
 |rowcount|最近一次execute返回数据的行数或影响的行数|
 |close()|关闭游标对象|
 
