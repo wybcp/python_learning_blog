@@ -47,6 +47,8 @@ b'Filesystem      Size  Used Avail Use% Mounted on\n/dev/sda3        48G  3.3G  
 
 ```bash
 [root@linux-node1 ~]# ssh-keygen -t rsa -f ~/.ssh/id_rsa -P ''
+[root@linux-node1 ~]# cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+[root@linux-node1 ~]# chmod 600 ~/.ssh/authorized_keys
 ```
 然后下载`/root/.ssh/id_rsa`下载下来，复制到`E:\python-intensive-training\`目录系，下面是在`windows`下使用`paramiko`连接脚本如下
 ```python
