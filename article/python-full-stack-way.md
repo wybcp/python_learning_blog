@@ -93,6 +93,7 @@
 13. [Python标准库系列之random](https://blog.ansheng.me/article/python-standard-library-random)
 14. [Python标准库系列之hashlib](https://blog.ansheng.me/article/python-standard-library-hashlib)
 15. [Python标准库系列之logging](https://blog.ansheng.me/article/python-standard-library-logging)
+16. [Python标准库系列之collections](https://blog.ansheng.me/article/python-standard-library-collections)
 
 -------------------------
 
