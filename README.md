@@ -6,6 +6,7 @@
 
 ---
 
+- 2018年04月28日 [ES6语法小记](//blog.ansheng.me/article/es6-grammar)
 - 2018年01月22日 [Celery分布式任务队列](//blog.ansheng.me/article/celery)
 - 2017年12月19日 [Docker部署Django项目](//blog.ansheng.me/article/docker-deploy-django)
 - 2017年12月13日 [Unix/Linux Curl命令测试Rest API](//blog.ansheng.me/article/unix-Linux-curl-command-to-test-the-rest-api)
