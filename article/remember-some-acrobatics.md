@@ -122,5 +122,8 @@ select * from orders@lin_ks; # 表名@dblink名
 ```
 "emmet.includeLanguages": {
     "javascript": "javascriptreact"
+},
+"emmet.syntaxProfiles": {
+    "javascript": "jsx"
 }
 ```
