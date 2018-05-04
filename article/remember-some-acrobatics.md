@@ -114,3 +114,13 @@ sqlplus USER/PWD@//IP:PORY/DB_NAME
 ```bash
 select * from orders@lin_ks; # 表名@dblink名  
 ```
+
+- VSCode支持JSX
+
+用户代码片段加入如下配置
+
+```
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+}
+```
