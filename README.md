@@ -44,7 +44,6 @@
 - 2017年05月24日 [Python基础编程第二版（修订版）](//blog.ansheng.me/article/python-fundamental-programming-2nd-edition-revised-edition)
 - 2017年05月24日 [简单的回顾下TCP/IP的三次握手与四次挥手](//blog.ansheng.me/article/tcp-ip-three-handshakes-and-four-waving)
 - 2017年05月24日 [通过浏览器访问一个网站的背后到底经历了什么](//blog.ansheng.me/article/through-the-browser-to-access-a-site-behind-what-has-gone-through)
-- 2017年05月24日 [利用Emmet快速编写HTML标签](//blog.ansheng.me/article/quickly-write-html-tags-with-emmet)
 - 2017年05月24日 [JavaScript DOM](//blog.ansheng.me/article/javascript-dom)
 - 2017年05月24日 [JavaScript函数](//blog.ansheng.me/article/javascript-function)
 - 2017年05月24日 [JavaScript语句](//blog.ansheng.me/article/javascript-statements)
