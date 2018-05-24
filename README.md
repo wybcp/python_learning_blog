@@ -1,6 +1,6 @@
 # Welcome to ansheng's blog!
 
-> [Python全栈之路系列文章](//blog.ansheng.me/article/python-full-stack-way)
+> [Python全栈之路系列文章](//blog.ansheng.me/article/python-full-stack-way) / [前端学习笔记](https://feln.ansheng.me/)
 
 博客托管于[GitHub](https://github.com/anshengme/blog),有问题欢迎提[issues](https://github.com/anshengme/blog/issues)
 
