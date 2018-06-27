@@ -127,3 +127,35 @@ select * from orders@lin_ks; # 表名@dblink名
     "javascript": "jsx"
 }
 ```
+
+## firewall的操作
+
+- 查看所有开放的端口
+
+```bash
+$ firewall-cmd --zone=public --list-ports
+```
+
+- 开启一个端口
+
+```bash
+$ firewall-cmd --zone=public --add-port=80/tcp --permanent  # --permanent永久生效，没有此参数重启后失效
+```
+
+- 开启一个范围的端口
+
+```bash
+$ firewall-cmd --zone=public --add-port=9000-9999/tcp --permanent
+```
+
+- 删除一个端口
+
+```bash
+$ firewall-cmd --zone=public --remove-port=80/tcp --permanent
+```
+
+更新防火墙规则
+
+```bash
+$ firewall-cmd --reload
+```
