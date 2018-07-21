@@ -128,7 +128,7 @@ select * from orders@lin_ks; # 表名@dblink名
 }
 ```
 
-## firewall的操作
+## Firewall的操作
 
 - 查看所有开放的端口
 
@@ -160,7 +160,7 @@ $ firewall-cmd --zone=public --remove-port=80/tcp --permanent
 $ firewall-cmd --reload
 ```
 
-## postgresql docker被封与恢复
+## postgresql docker备份与恢复
 
 - 备份
 
