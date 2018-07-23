@@ -10,7 +10,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  PythonFullStackWay: /python-full-stack-way/
+  PythonFullStackWay: /article/python-full-stack-way/
   about: /about/
 
 # Links to your social media accounts.
