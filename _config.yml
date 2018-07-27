@@ -6,7 +6,7 @@
 title: Welcome to ansheng’s blog!
 subtitle:
 description: 
-keywords:
+keywords: 安生,Python
 author: ansheng
 language: en
 timezone: Asia/Shanghai
@@ -21,10 +21,10 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
+# tag_dir: tags
+# archive_dir: archives
+# category_dir: categories
+# code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 

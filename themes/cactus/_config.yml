@@ -9,9 +9,10 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  home: /
+  Home: /
+  Notes: //notes.ansheng.me
   PythonFullStackWay: /article/python-full-stack-way/
-  about: /about/
+  About: /about/
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names 
@@ -57,16 +58,16 @@ logo:
 # Options:
 #   - url: where the icon can be found
 #   - gravatar: whether to create a favicon from your Gravatar
-# favicon: 
-#   desktop:
-#     url: /images/favicon.ico
-#     gravatar: false
-#   android:
-#     url: /images/favicon-192x192.png
-#     gravatar: false
-#   apple:
-#     url: /images/apple-touch-icon.png
-#     gravatar: false
+favicon: 
+  desktop:
+    url: /images/favicon.ico
+    gravatar: false
+  android:
+    url: /images/favicon.ico
+    gravatar: false
+  apple:
+    url: /images/favicon.ico
+    gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
