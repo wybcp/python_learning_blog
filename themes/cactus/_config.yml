@@ -10,7 +10,6 @@ direction: ltr
 # languages/*.yml
 nav:
   Home: /
-  Notes: //notes.ansheng.me
   PythonFullStackWay: /article/python-full-stack-way/
   About: /about/
 
